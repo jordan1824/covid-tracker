@@ -1,0 +1,15 @@
+$primary: rgb(38, 77, 149);
+
+body,
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: $primary;
+}

@@ -1,4 +1,3 @@
-/* LOADING ICON */
 .loader {
   border: 16px solid #f3f3f3; /* Light grey */
   border-top: 16px solid #888; /* Blue */
@@ -19,15 +18,4 @@
   100% {
     transform: translate(-50%, -50%) rotate(360deg);
   }
-}
-
-/* ERROR MESSAGE */
-.error-message {
-  padding: 2px;
-  background: #f5c6cb;
-  border: 1px solid #721c24;
-  text-align: center;
-}
-.error-message p {
-  color: #721c24;
 }

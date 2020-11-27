@@ -2,7 +2,7 @@ import React from 'react'
 
 function CountryArticle({ country }) {
   return (
-    <article className="country">
+    <article className="main__country">
       <h1>{country.Country}</h1>
     </article>
   )
